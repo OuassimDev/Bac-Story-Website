@@ -1,4 +1,4 @@
-# Bac Story — Stories, DriveSystem.js — Google Drive Viewer
+# Bac Story — DriveSystem.js — Google Drive Viewer
 
 - What is this?
 DriveSystem.js is a lightweight JavaScript module built for Bac Story website. It intercepts Google Drive links and opens them inside an in-page overlay (modal) instead of redirecting the user to a new tab or a separate page.
